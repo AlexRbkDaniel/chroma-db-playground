@@ -45,7 +45,7 @@ Collection contents:
 Number of items: 14
 Collection 'my_grocery_collection' is ready for use.
 Results for '['apple', 'fresh']':
-...
+
 Item ID: food_1, Document: fresh red apples, Distance: 0.1234
 Item ID: food_13, Document: golden apple, Distance: 0.2345
 Item ID: food_14, Document: red fruit, Distance: 0.3456
