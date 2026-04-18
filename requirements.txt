@@ -1,0 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+chromadb==1.0.12
+sentence-transformers==4.1.0
